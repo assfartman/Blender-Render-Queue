@@ -1,4 +1,5 @@
-- Added the fucking program it's version 1
-- it does things I guess (didn't before it existed)
-- removed countless hours of my life
-- added 4 liters of tears
+- Added new argument GUI
+- Added more control over arguments
+- Added ability to change arguments after they've been set
+- Removed file limit
+- Made a few visual tweaks 
